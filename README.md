@@ -73,6 +73,7 @@ You can find more examples in the [examples](examples) directory.
 * Solidity Node - https://api.shasta.trongrid.io
 * Event Server - https://api.shasta.trongrid.io
 * Block Explorer - https://explorer.shasta.trongrid.io
+* Test Faucet - https://faucets.blockxlabs.com
 
 * You can also set up your own private network, but you need to solve cross-domain CORS. The following example in Node reads from a full node listening on 16667 and a solidity node listening on 16668, and exposes the ports 9090 and 9090 with the needed headers.
 
